@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; max-width: 1200px; margin: 0 auto; padding: 20px; }
+header { text-align: center; border-bottom: 2px solid #333; padding-bottom: 10px; }
+nav a { margin: 0 15px; text-decoration: none; color: #0066cc; }
+.products { display: flex; flex-wrap: wrap; gap: 20px; }
+.product { border: 1px solid #ddd; padding: 15px; width: 250px; text-align: center; }
+.btn { background: #28a745; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; }
+table { width: 100%; border-collapse: collapse; } th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
